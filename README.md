@@ -1,10 +1,10 @@
-📊 Customer Churn Analysis Dashboard
+## 📊 Customer Churn Analysis Dashboard
 
 An interactive Customer Churn Dashboard built to analyze customer retention, identify churn patterns, and support data-driven decision making.
 
 This dashboard provides insights into customer behavior, revenue impact, churn rate, and demographic trends using dynamic visualizations.
 
-🚀 Project Overview
+## 🚀 Project Overview
 
 Customer churn is a critical metric for subscription-based and service businesses.
 This project analyzes churn data to identify key factors influencing customer attrition and helps businesses develop strategies to improve retention.
@@ -21,18 +21,18 @@ Contract & Subscription Patterns
 
 Service Usage Trends
 
-📈 Key Dashboard Insights
+## 📈 Key Dashboard Insights
 
-📌 Total Customers
+# 📌 Total Customers
 Displays the total customer base and active users.
 
-📌 Churn Rate
+# 📌 Churn Rate
 Shows the percentage of customers who left the service.
 
-📌 Revenue Impact
+# 📌 Revenue Impact
 Highlights revenue lost due to churn.
 
-📌 Customer Segmentation
+# 📌 Customer Segmentation
 Breakdown by:
 
 Gender
