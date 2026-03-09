@@ -1,5 +1,5 @@
 # 📊 Customer Churn Analysis Dashboard 
-helloooooo
+
 An interactive Customer Churn Dashboard built to analyze customer retention, identify churn patterns, and support data-driven decision making.
 
 This dashboard provides insights into customer behavior, revenue impact, churn rate, and demographic trends using dynamic visualizations.
