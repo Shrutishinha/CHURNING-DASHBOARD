@@ -1,127 +1,163 @@
-# 📊 Customer Churn Analysis Dashboard  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=200&section=header&text=CUSTOMER%20CHURN%20ANALYSIS%20DASHBOARD&fontSize=38&fontColor=ffffff" />
 
-An interactive Customer Churn Dashboard built to analyze customer retention, identify churn patterns, and support data-driven decision making.
+---
 
-This dashboard provides insights into customer behavior, revenue impact, churn rate, and demographic trends using dynamic visualizations.
+# 📊 CUSTOMER CHURN ANALYSIS DASHBOARD
 
-# 🚀 Project Overview
+AN INTERACTIVE **CUSTOMER CHURN DASHBOARD** BUILT TO ANALYZE CUSTOMER RETENTION, IDENTIFY CHURN PATTERNS, AND SUPPORT **DATA-DRIVEN DECISION MAKING**.
 
-Customer churn is a critical metric for subscription-based and service businesses.
-This project analyzes churn data to identify key factors influencing customer attrition and helps businesses develop strategies to improve retention.
+THIS DASHBOARD PROVIDES INSIGHTS INTO **CUSTOMER BEHAVIOR, REVENUE IMPACT, CHURN RATE, AND DEMOGRAPHIC TRENDS** USING DYNAMIC DATA VISUALIZATIONS.
 
-The dashboard highlights:
+<img src="https://user-images.githubusercontent.com/74038190/212750373-7c6c6c19-0f56-4e2f-8c68-09c2a6f9a4d8.gif">
 
-Overall Churn Rate
+---
 
-Customer Demographics
+# 🚀 PROJECT OVERVIEW
 
-Revenue Loss due to Churn
+CUSTOMER CHURN IS A CRITICAL METRIC FOR **SUBSCRIPTION-BASED AND SERVICE BUSINESSES**.
 
-Contract & Subscription Patterns
+THIS PROJECT ANALYZES CUSTOMER DATA TO IDENTIFY **KEY FACTORS INFLUENCING CUSTOMER ATTRITION** AND HELPS BUSINESSES DEVELOP STRATEGIES TO IMPROVE CUSTOMER RETENTION.
 
-Service Usage Trends
+### THE DASHBOARD HIGHLIGHTS
 
-# 📈 Key Dashboard Insights
+• OVERALL **CHURN RATE**
+• **CUSTOMER DEMOGRAPHICS**
+• **REVENUE LOSS DUE TO CHURN**
+• **CONTRACT & SUBSCRIPTION PATTERNS**
+• **SERVICE USAGE TRENDS**
 
-## 📌 Total Customers
-Displays the total customer base and active users.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=3"/>
 
-## 📌 Churn Rate
-Shows the percentage of customers who left the service.
+---
 
-## 📌 Revenue Impact
-Highlights revenue lost due to churn.
+# 📈 KEY DASHBOARD INSIGHTS
 
-## 📌 Customer Segmentation
-Breakdown by:
+## 📌 TOTAL CUSTOMERS
 
-Gender
+DISPLAYS THE **TOTAL CUSTOMER BASE AND ACTIVE USERS**.
 
-Age group
+## 📌 CHURN RATE
 
-Tenure
+SHOWS THE **PERCENTAGE OF CUSTOMERS WHO LEFT THE SERVICE**.
 
-Contract type
+## 📌 REVENUE IMPACT
 
-## 📌 Service Usage Analysis
-Identifies services most associated with churn.
+HIGHLIGHTS **REVENUE LOST DUE TO CUSTOMER CHURN**.
 
-# 📊 Dashboard Visualizations
+## 📌 CUSTOMER SEGMENTATION
 
-The dashboard includes multiple interactive visuals:
+BREAKDOWN OF CUSTOMERS BASED ON:
 
-📉 Churn Rate KPI Cards
+• GENDER
+• AGE GROUP
+• TENURE
+• CONTRACT TYPE
 
-📊 Churn by Contract Type
+## 📌 SERVICE USAGE ANALYSIS
 
-📈 Customer Tenure Distribution
+IDENTIFIES **SERVICES MOST ASSOCIATED WITH CUSTOMER CHURN**.
 
-📊 Monthly Charges vs Churn
+<img src="https://user-images.githubusercontent.com/74038190/212897782-965815c7-6c1c-4a5a-b08f-2cfd2f3bde19.gif">
 
-📉 Churn by Internet Service
+---
 
-📊 Payment Method Analysis
+# 📊 DASHBOARD VISUALIZATIONS
 
-# 🛠️ Tools & Technologies
-Tool	Purpose
-Power BI	Dashboard Visualization
-Excel / CSV Dataset	Data Source
-Power Query	Data Cleaning
-DAX	Data Modeling & Metrics
-📂 Dataset Features
+THE DASHBOARD INCLUDES MULTIPLE INTERACTIVE VISUALS:
 
-## The dataset includes customer information such as:
+📉 **CHURN RATE KPI CARDS**
 
-Customer ID
+📊 **CHURN BY CONTRACT TYPE**
 
-Gender
+📈 **CUSTOMER TENURE DISTRIBUTION**
 
-Senior Citizen Status
+📊 **MONTHLY CHARGES VS CHURN**
 
-Tenure
+📉 **CHURN BY INTERNET SERVICE**
 
-Monthly Charges
+📊 **PAYMENT METHOD ANALYSIS**
 
-Contract Type
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9966,100:ff5e62&height=3"/>
 
-Internet Service
+---
 
-Payment Method
+# 🛠️ TOOLS & TECHNOLOGIES
 
-Churn Status
+| TOOL                | PURPOSE                 |
+| ------------------- | ----------------------- |
+| POWER BI            | DASHBOARD VISUALIZATION |
+| EXCEL / CSV DATASET | DATA SOURCE             |
+| POWER QUERY         | DATA CLEANING           |
+| DAX                 | DATA MODELING & METRICS |
 
-# 📷 Dashboard Preview
-(Add Screenshot of Power BI Dashboard Here)
+<img src="https://user-images.githubusercontent.com/74038190/212749695-9e0b6a4c-3a68-4e7b-9b71-913c04df7c5f.gif">
 
-Example:
+---
 
-![Churn Dashboard](dashboard.png)
-💡 Business Insights
+# 📂 DATASET FEATURES
 
-Long-term contracts show lower churn rates
+THE DATASET INCLUDES CUSTOMER INFORMATION SUCH AS:
 
-Customers with higher monthly charges churn more frequently
+• CUSTOMER ID
+• GENDER
+• SENIOR CITIZEN STATUS
+• TENURE
+• MONTHLY CHARGES
+• CONTRACT TYPE
+• INTERNET SERVICE
+• PAYMENT METHOD
+• CHURN STATUS
 
-Electronic check payment method has higher churn probability
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=3"/>
 
-Short tenure customers are more likely to churn
+---
 
-📌 Project Objective
+# 📷 DASHBOARD PREVIEW
 
-✔ Understand churn drivers
-✔ Improve customer retention strategies
-✔ Support business decision making with analytics
+ADD A SCREENSHOT OF YOUR POWER BI DASHBOARD BELOW.
 
-🔮 Future Improvements
+EXAMPLE:
 
-Machine Learning churn prediction
+![CHURN DASHBOARD](dashboard.png)
 
-Automated data pipeline
+<img src="https://user-images.githubusercontent.com/74038190/212897921-10b43e9c-2450-4b76-9c0a-11d6f1d74b20.gif">
 
-Real-time dashboard integration
+---
 
-Customer lifetime value analysis
+# 💡 BUSINESS INSIGHTS
 
-📜 License
+• LONG-TERM CONTRACTS SHOW **LOWER CHURN RATES**
 
-This project is licensed under the MIT License.
+• CUSTOMERS WITH **HIGHER MONTHLY CHARGES CHURN MORE FREQUENTLY**
+
+• **ELECTRONIC CHECK PAYMENT METHOD** HAS HIGHER CHURN PROBABILITY
+
+• **SHORT TENURE CUSTOMERS** ARE MORE LIKELY TO CHURN
+
+---
+
+# 📌 PROJECT OBJECTIVE
+
+✔ UNDERSTAND **CHURN DRIVERS**
+
+✔ IMPROVE **CUSTOMER RETENTION STRATEGIES**
+
+✔ SUPPORT **BUSINESS DECISION MAKING WITH ANALYTICS**
+
+---
+
+# 🔮 FUTURE IMPROVEMENTS
+
+• MACHINE LEARNING **CHURN PREDICTION**
+
+• AUTOMATED **DATA PIPELINE**
+
+• **REAL-TIME DASHBOARD INTEGRATION**
+
+• **CUSTOMER LIFETIME VALUE ANALYSIS**
+
+---
+
+# 📜 LICENSE
+
+THIS PROJECT IS LICENSED UNDER THE **MIT LICENSE**.
