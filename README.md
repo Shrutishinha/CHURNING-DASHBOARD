@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=200&section=header&text=CUSTOMER%20CHURN%20ANALYSIS%20DASHBOARD&fontSize=38&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=200&section=header&text=CUSTOMER%20CHURN%20ANALYSIS%20DASHBOARD&fontSize=40&fontColor=ffffff" />
 
 ---
 
@@ -6,7 +6,7 @@
 
 AN INTERACTIVE **CUSTOMER CHURN DASHBOARD** BUILT TO ANALYZE CUSTOMER RETENTION, IDENTIFY CHURN PATTERNS, AND SUPPORT **DATA-DRIVEN DECISION MAKING**.
 
-THIS DASHBOARD PROVIDES INSIGHTS INTO **CUSTOMER BEHAVIOR, REVENUE IMPACT, CHURN RATE, AND DEMOGRAPHIC TRENDS** USING DYNAMIC DATA VISUALIZATIONS.
+THIS DASHBOARD PROVIDES INSIGHTS INTO **CUSTOMER BEHAVIOR, REVENUE IMPACT, CHURN RATE, AND DEMOGRAPHIC TRENDS** USING DYNAMIC VISUALIZATIONS.
 
 <img src="https://user-images.githubusercontent.com/74038190/212750373-7c6c6c19-0f56-4e2f-8c68-09c2a6f9a4d8.gif">
 
@@ -16,7 +16,7 @@ THIS DASHBOARD PROVIDES INSIGHTS INTO **CUSTOMER BEHAVIOR, REVENUE IMPACT, CHURN
 
 CUSTOMER CHURN IS A CRITICAL METRIC FOR **SUBSCRIPTION-BASED AND SERVICE BUSINESSES**.
 
-THIS PROJECT ANALYZES CUSTOMER DATA TO IDENTIFY **KEY FACTORS INFLUENCING CUSTOMER ATTRITION** AND HELPS BUSINESSES DEVELOP STRATEGIES TO IMPROVE CUSTOMER RETENTION.
+THIS PROJECT ANALYZES CUSTOMER DATA TO IDENTIFY **KEY FACTORS INFLUENCING CUSTOMER ATTRITION** AND HELPS BUSINESSES DEVELOP STRATEGIES TO IMPROVE RETENTION.
 
 ### THE DASHBOARD HIGHLIGHTS
 
@@ -26,7 +26,7 @@ THIS PROJECT ANALYZES CUSTOMER DATA TO IDENTIFY **KEY FACTORS INFLUENCING CUSTOM
 • **CONTRACT & SUBSCRIPTION PATTERNS**
 • **SERVICE USAGE TRENDS**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=4"/>
 
 ---
 
@@ -57,7 +57,7 @@ BREAKDOWN OF CUSTOMERS BASED ON:
 
 IDENTIFIES **SERVICES MOST ASSOCIATED WITH CUSTOMER CHURN**.
 
-<img src="https://user-images.githubusercontent.com/74038190/212897782-965815c7-6c1c-4a5a-b08f-2cfd2f3bde19.gif">
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%">
 
 ---
 
@@ -77,7 +77,7 @@ THE DASHBOARD INCLUDES MULTIPLE INTERACTIVE VISUALS:
 
 📊 **PAYMENT METHOD ANALYSIS**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9966,100:ff5e62&height=3"/>
+<img src="https://user-images.githubusercontent.com/74038190/212897782-965815c7-6c1c-4a5a-b08f-2cfd2f3bde19.gif">
 
 ---
 
@@ -90,7 +90,7 @@ THE DASHBOARD INCLUDES MULTIPLE INTERACTIVE VISUALS:
 | POWER QUERY         | DATA CLEANING           |
 | DAX                 | DATA MODELING & METRICS |
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-9e0b6a4c-3a68-4e7b-9b71-913c04df7c5f.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9966,100:ff5e62&height=4"/>
 
 ---
 
@@ -108,7 +108,7 @@ THE DATASET INCLUDES CUSTOMER INFORMATION SUCH AS:
 • PAYMENT METHOD
 • CHURN STATUS
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=3"/>
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="100%">
 
 ---
 
@@ -134,6 +134,8 @@ EXAMPLE:
 
 • **SHORT TENURE CUSTOMERS** ARE MORE LIKELY TO CHURN
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=4"/>
+
 ---
 
 # 📌 PROJECT OBJECTIVE
@@ -155,6 +157,8 @@ EXAMPLE:
 • **REAL-TIME DASHBOARD INTEGRATION**
 
 • **CUSTOMER LIFETIME VALUE ANALYSIS**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=120&section=footer"/>
 
 ---
 
