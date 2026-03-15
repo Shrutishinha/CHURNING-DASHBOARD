@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=200&section=header&text=CUSTOMER%20CHURN%20ANALYSIS%20DASHBOARD&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=200&section=header&text=CUSTOMER%20CHURN%20ANALYSIS%20DASHBOARD&fontSize=40&fontColor=ffffff"/>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=CUSTOMER+CHURN+ANALYSIS;POWER+BI+DASHBOARD;DATA+ANALYTICS+PROJECT;BUSINESS+INTELLIGENCE+INSIGHTS&center=true&width=500&height=50">
+</p>
 
 ---
 
@@ -8,7 +12,7 @@ AN INTERACTIVE **CUSTOMER CHURN DASHBOARD** BUILT TO ANALYZE CUSTOMER RETENTION,
 
 THIS DASHBOARD PROVIDES INSIGHTS INTO **CUSTOMER BEHAVIOR, REVENUE IMPACT, CHURN RATE, AND DEMOGRAPHIC TRENDS** USING DYNAMIC VISUALIZATIONS.
 
-<img src="https://user-images.githubusercontent.com/74038190/212750373-7c6c6c19-0f56-4e2f-8c68-09c2a6f9a4d8.gif">
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%">
 
 ---
 
@@ -16,7 +20,7 @@ THIS DASHBOARD PROVIDES INSIGHTS INTO **CUSTOMER BEHAVIOR, REVENUE IMPACT, CHURN
 
 CUSTOMER CHURN IS A CRITICAL METRIC FOR **SUBSCRIPTION-BASED AND SERVICE BUSINESSES**.
 
-THIS PROJECT ANALYZES CUSTOMER DATA TO IDENTIFY **KEY FACTORS INFLUENCING CUSTOMER ATTRITION** AND HELPS BUSINESSES DEVELOP STRATEGIES TO IMPROVE RETENTION.
+THIS PROJECT ANALYZES CUSTOMER DATA TO IDENTIFY **KEY FACTORS INFLUENCING CUSTOMER ATTRITION** AND HELPS BUSINESSES DEVELOP STRATEGIES TO IMPROVE CUSTOMER RETENTION.
 
 ### THE DASHBOARD HIGHLIGHTS
 
@@ -57,7 +61,7 @@ BREAKDOWN OF CUSTOMERS BASED ON:
 
 IDENTIFIES **SERVICES MOST ASSOCIATED WITH CUSTOMER CHURN**.
 
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%">
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/fire.png" width="100%">
 
 ---
 
@@ -66,22 +70,24 @@ IDENTIFIES **SERVICES MOST ASSOCIATED WITH CUSTOMER CHURN**.
 THE DASHBOARD INCLUDES MULTIPLE INTERACTIVE VISUALS:
 
 📉 **CHURN RATE KPI CARDS**
-
 📊 **CHURN BY CONTRACT TYPE**
-
 📈 **CUSTOMER TENURE DISTRIBUTION**
-
 📊 **MONTHLY CHARGES VS CHURN**
-
 📉 **CHURN BY INTERNET SERVICE**
-
 📊 **PAYMENT METHOD ANALYSIS**
 
+<p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212897782-965815c7-6c1c-4a5a-b08f-2cfd2f3bde19.gif">
+</p>
 
 ---
 
 # 🛠️ TOOLS & TECHNOLOGIES
+
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-Data%20Source-green?logo=microsoft-excel)
+![Power Query](https://img.shields.io/badge/PowerQuery-Data%20Cleaning-orange)
+![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-blue)
 
 | TOOL                | PURPOSE                 |
 | ------------------- | ----------------------- |
@@ -90,7 +96,7 @@ THE DASHBOARD INCLUDES MULTIPLE INTERACTIVE VISUALS:
 | POWER QUERY         | DATA CLEANING           |
 | DAX                 | DATA MODELING & METRICS |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9966,100:ff5e62&height=4"/>
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="100%">
 
 ---
 
@@ -108,7 +114,7 @@ THE DATASET INCLUDES CUSTOMER INFORMATION SUCH AS:
 • PAYMENT METHOD
 • CHURN STATUS
 
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9966,100:ff5e62&height=4"/>
 
 ---
 
@@ -120,7 +126,9 @@ EXAMPLE:
 
 ![CHURN DASHBOARD](dashboard.png)
 
+<p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212897921-10b43e9c-2450-4b76-9c0a-11d6f1d74b20.gif">
+</p>
 
 ---
 
@@ -134,7 +142,7 @@ EXAMPLE:
 
 • **SHORT TENURE CUSTOMERS** ARE MORE LIKELY TO CHURN
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=4"/>
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%">
 
 ---
 
@@ -151,14 +159,11 @@ EXAMPLE:
 # 🔮 FUTURE IMPROVEMENTS
 
 • MACHINE LEARNING **CHURN PREDICTION**
-
 • AUTOMATED **DATA PIPELINE**
-
 • **REAL-TIME DASHBOARD INTEGRATION**
-
 • **CUSTOMER LIFETIME VALUE ANALYSIS**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=150&section=footer"/>
 
 ---
 
