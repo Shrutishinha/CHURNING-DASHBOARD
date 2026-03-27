@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=CUSTOMER+CHURN+ANALYSIS;POWER+BI+DASHBOARD;DATA+ANALYTICS+PROJECT;BUSINESS+INTELLIGENCE+INSIGHTS&center=true&width=500&height=50">
 </p>
-
+hi
 ---
 
 # 📊 CUSTOMER CHURN  ANALYSIS  DASHBOARD
