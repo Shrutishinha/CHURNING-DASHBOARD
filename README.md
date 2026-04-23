@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Fitness%20%26%20Health%20Analytics%20Dashboard&fontSize=35&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Fitness%20Analytics%20Dashboard&fontSize=30&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Power+BI+Dashboard;Fitness+Data+Analysis;Business+Insights;Interactive+Visualization&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Power+BI+Dashboard;Fitness+Data+Analysis;Interactive+Visualization;Business+Insights"/>
 </p>
 
+---
 ---
 
 # 📊 FITNESS & HEALTH ANALYTICS DASHBOARD
