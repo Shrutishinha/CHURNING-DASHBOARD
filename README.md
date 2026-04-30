@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Power+BI+Dashboard;Fitness+Data+Analysis;Interactive+Visualization;Business+Insights"/>
 </p>
-hi
+
 ---
 ---
 
