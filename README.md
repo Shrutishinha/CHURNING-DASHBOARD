@@ -1,266 +1,287 @@
-````markdown
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20&text=Fitness%20Analytics%20Dashboard&fontSize=45&fontAlignY=38&animation=twinkling&fontColor=ffffff"/>hihi
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20&text=Fitness%20Analytics%20Dashboard&fontSize=45&fontAlignY=38&animation=twinkling&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=📊+Interactive+Power+BI+Dashboard;📈+Fitness+%26+Health+Analytics;🔥+Data-Driven+Insights;⚡+Business+Intelligence+Project;🚀+Built+Using+Power+BI+%26+DAX"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Interactive+Power+BI+Dashboard;Fitness+%26+Health+Analytics;Data+Visualization+%7C+Power+BI+%7C+DAX;Business+Intelligence+Project;Turning+Raw+Data+into+Actionable+Insights"/>
 </p>
 
 <p align="center">
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Calculations-blue?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/Data-Analytics-purple?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-Measures-blue?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Cleaning-orange?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Data%20Analytics-purple?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
 
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-7df0d6b5-4d80-4eb3-87e0-9d3d3d4c3e53.gif">
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Project+Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
-# 📊 FITNESS & HEALTH ANALYTICS DASHBOARD
+---
 
-An advanced and interactive **Power BI Dashboard** developed to analyze fitness activities, health behavior, workout performance, sleep patterns, and calorie expenditure.
+# 📊 Fitness & Health Analytics Dashboard
 
-The dashboard converts raw fitness data into meaningful visual insights that support smarter lifestyle and wellness decisions.
+## 📌 Project Overview
+
+The **Fitness & Health Analytics Dashboard** is an interactive **Power BI** project designed to transform raw fitness data into meaningful business insights.
+
+It enables users, fitness coaches, and analysts to monitor workout performance, calorie expenditure, sleep quality, daily activities, and lifestyle trends through interactive dashboards.
 
 ---
 
-# 🎯 PROJECT OBJECTIVE
+# 📑 Table of Contents
 
-This project aims to:
-
-✅ Analyze user fitness behavior
-
-✅ Track health-related KPIs
-
-✅ Discover patterns in workouts and sleep
-
-✅ Measure calorie expenditure trends
-
-✅ Enable data-driven fitness decisions
-
-✅ Demonstrate Business Intelligence skills using Power BI
-
----
-
-# 🚀 PROJECT HIGHLIGHTS
-
-<table>
-<tr>
-<td align="center">
-
-📈 Trend Analysis
-
-</td>
-<td align="center">
-
-🔥 Calorie Insights
-
-</td>
-<td align="center">
-
-😴 Sleep Analytics
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-🏋 Workout Tracking
-
-</td>
-<td align="center">
-
-📊 KPI Monitoring
-
-</td>
-<td align="center">
-
-🎯 Interactive Filters
-
-</td>
-</tr>
-</table>
+- Project Overview
+- Objectives
+- Dashboard Workflow
+- Features
+- KPI Metrics
+- Dashboard Preview
+- Dashboard Visualizations
+- Dataset
+- Technology Stack
+- DAX Measures
+- Power BI Skills
+- Key Insights
+- Business Impact
+- Repository Structure
+- Installation
+- Future Enhancements
+- Author
 
 ---
 
-# 📌 KEY PERFORMANCE INDICATORS
+# 🎯 Project Objectives
+
+- Analyze user fitness behavior
+- Monitor workout performance
+- Track calories burned
+- Evaluate sleep patterns
+- Analyze activity trends
+- Build interactive Power BI reports
+- Demonstrate Business Intelligence skills
+
+---
+
+# 🏗 Dashboard Workflow
+
+```text
+Dataset
+   │
+   ▼
+Power Query
+(Data Cleaning)
+   │
+   ▼
+Data Modeling
+   │
+   ▼
+DAX Measures
+   │
+   ▼
+Interactive Visualizations
+   │
+   ▼
+Business Insights
+```
+
+---
+
+# 🏛 Dashboard Architecture
+
+```text
+Excel / CSV Dataset
+        │
+        ▼
+ Power Query
+(Data Transformation)
+        │
+        ▼
+ Data Model
+(Relationships)
+        │
+        ▼
+ DAX Measures
+        │
+        ▼
+ Interactive Dashboard
+        │
+        ▼
+ Data-Driven Decisions
+```
+
+---
+
+# 🚀 Dashboard Features
+
+| Feature | Description |
+|----------|-------------|
+| 🔥 Calories Analysis | Compare calories burned across activities |
+| 🚶 Activity Tracking | Daily steps and movement analysis |
+| 😴 Sleep Analytics | Sleep duration and recovery insights |
+| 🏋 Workout Monitoring | Workout duration and engagement |
+| 📊 KPI Cards | Key performance indicators |
+| 🎛 Interactive Filters | Dynamic slicers and filtering |
+
+---
+
+# 📌 Key Performance Indicators
 
 | KPI | Description |
 |------|-------------|
-| 👥 Total Users | Number of users analyzed |
+| 👥 Total Users | Total users analyzed |
 | 🔥 Total Calories Burned | Overall calories burned |
 | 🚶 Total Daily Steps | Combined daily steps |
-| 😴 Average Sleep Hours | Average sleeping duration |
-| 🏋 Average Workout Duration | Average exercise duration |
+| 😴 Average Sleep Hours | Average sleep duration |
+| 🏋 Average Workout Duration | Average workout time |
 
 ---
 
-# 📊 DASHBOARD FEATURES
+# 📷 Dashboard Preview
 
-### 🔥 Calories Burned Analysis
-- Activity-wise calorie comparison
-- Top calorie-burning activities
-- Performance tracking
-
-### 🚶 Daily Activity Monitoring
-- Daily steps analysis
-- Activity trend visualization
-- User movement insights
-
-### 😴 Sleep Analysis
-- Sleep duration patterns
-- Sleep vs activity relationship
-- Recovery insights
-
-### 🏋 Workout Performance
-- Workout duration comparison
-- Performance by age group
-- Activity engagement trends
-
-### 🥗 Diet Analytics
-- Calories by diet preference
-- Lifestyle behavior insights
-- Nutritional impact analysis
-
----
-
-# 📷 DASHBOARD DEMO
-
-> Replace with your Power BI GIF Recording
+> Replace the placeholder images with your own screenshots.
 
 <p align="center">
-<img src="dashboard.gif" width="100%">
+<img src="dashboard.png" width="95%">
 </p>
 
 ---
 
-# 📸 DASHBOARD PREVIEW
+# 🎥 Dashboard Demo
 
 <p align="center">
-<img src="dashboard.png" width="100%">
+<img src="dashboard.gif" width="95%">
 </p>
 
 ---
 
-# 📈 DASHBOARD VISUALS
+# 📊 Dashboard Visualizations
 
-✔ Calories Burned by Activity Type
-
-✔ Daily Steps vs Calories Burned
-
-✔ Workout Duration by Age Group
-
-✔ Calories by Diet Preference
-
-✔ Sleep Hours Trend Analysis
-
-✔ Interactive KPI Cards
-
-✔ Dynamic Slicers & Filters
+- Calories Burned by Activity
+- Workout Duration by Age Group
+- Daily Steps Trend
+- Calories by Diet Preference
+- Sleep Hours Distribution
+- Interactive KPI Cards
+- Dynamic Filters & Slicers
+- User Activity Comparison
 
 ---
 
-# 📂 DATASET INFORMATION
+# 📂 Dataset Information
 
-The dataset contains:
+The dashboard uses a structured fitness dataset containing:
 
 | Attribute |
-|------------|
+|-----------|
 | User ID |
-| Age Group |
 | Gender |
+| Age Group |
 | Activity Type |
 | Daily Steps |
 | Calories Burned |
-| Sleep Hours |
 | Workout Duration |
+| Sleep Hours |
 | Diet Preference |
 
 ---
 
-# 🛠️ TOOLS & TECHNOLOGIES
+# 🛠 Technology Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=github,vscode"/>
-
-</p>
-
-| Technology | Purpose |
-|------------|---------|
+| Tool | Purpose |
+|------|----------|
 | Power BI | Dashboard Development |
-| Excel / CSV | Data Source |
-| DAX | KPIs & Measures |
 | Power Query | Data Cleaning |
-| GitHub | Project Hosting |
+| DAX | Calculated Measures |
+| Excel / CSV | Dataset |
+| GitHub | Version Control |
 
 ---
 
-# 🧮 DAX MEASURES USED
+# 💼 Power BI Skills Demonstrated
+
+- Data Cleaning
+- Power Query
+- Data Modeling
+- Relationships
+- Calculated Columns
+- DAX Measures
+- KPI Cards
+- Slicers
+- Filters
+- Drill Down
+- Conditional Formatting
+- Dashboard Design
+- Interactive Reports
+
+---
+
+# 🧮 DAX Measures
 
 ```DAX
 Total Calories Burned =
 SUM(Fitness[Calories Burned])
-
-Average Sleep Hours =
-AVERAGE(Fitness[Sleep Hours])
 
 Total Steps =
 SUM(Fitness[Daily Steps])
 
 Average Workout Duration =
 AVERAGE(Fitness[Workout Duration])
-````
+
+Average Sleep Hours =
+AVERAGE(Fitness[Sleep Hours])
+```
 
 ---
 
-# 💡 KEY INSIGHTS
+# 💡 Key Insights
 
-### 🔥 Calorie Burn Trends
+### 🔥 Calories
 
-* Running and gym workouts contribute to the highest calorie expenditure.
-* Increased activity levels lead to higher calorie burn.
+- Running contributes the highest calorie burn.
+- Longer workout sessions increase calorie expenditure.
 
-### 😴 Sleep Patterns
+### 🚶 Daily Activity
 
-* Moderate sleep duration correlates with consistent performance.
-* Sleep quality influences activity efficiency.
+- Higher step counts are associated with improved fitness levels.
+- Active users maintain consistent calorie burn.
 
-### 🏋 Workout Behavior
+### 😴 Sleep
 
-* Younger age groups demonstrate higher activity levels.
-* Longer workout durations generally increase calorie burn.
+- Balanced sleep improves recovery.
+- Sleep duration influences workout performance.
 
-### 🥗 Lifestyle Impact
+### 🏋 Workouts
 
-* Diet preferences influence energy expenditure.
-* Balanced lifestyle habits improve overall fitness outcomes.
+- Younger age groups show higher workout frequency.
+- Longer workouts generally lead to greater calorie expenditure.
 
----
+### 🥗 Diet
 
-# 📈 BUSINESS IMPACT
-
-This dashboard helps:
-
-✅ Fitness coaches monitor user performance
-
-✅ Health analysts identify lifestyle trends
-
-✅ Individuals track personal fitness goals
-
-✅ Organizations promote wellness programs
-
-✅ Data analysts derive actionable health insights
+- Diet preference affects overall energy expenditure.
+- Healthy eating habits support better fitness outcomes.
 
 ---
 
-# 📁 REPOSITORY STRUCTURE
+# 📈 Business Impact
+
+This dashboard can be used by:
+
+- Fitness Coaches
+- Health Analysts
+- Gym Owners
+- Personal Trainers
+- Healthcare Organizations
+- Wellness Programs
+- Individuals tracking personal fitness goals
+
+---
+
+# 📁 Repository Structure
 
 ```text
 Fitness-Analytics-Dashboard/
@@ -275,9 +296,7 @@ Fitness-Analytics-Dashboard/
 
 ---
 
-# ▶️ HOW TO USE
-
-### Step 1
+# ▶ Installation
 
 Clone the repository
 
@@ -285,53 +304,72 @@ Clone the repository
 git clone https://github.com/yourusername/Fitness-Analytics-Dashboard.git
 ```
 
-### Step 2
+Open
 
-Open the `.pbix` file in Power BI Desktop.
+```
+Dashboard.pbix
+```
 
-### Step 3
+using **Power BI Desktop**.
 
-Refresh the data source if required.
+Refresh the dataset if required.
 
-### Step 4
-
-Explore insights using filters and slicers.
-
----
-
-# 🌟 FUTURE ENHANCEMENTS
-
-🚀 Machine Learning Predictions
-
-📡 Real-Time Data Integration
-
-📱 Mobile Dashboard Optimization
-
-🎯 Personalized Fitness Recommendations
-
-☁️ Power BI Service Deployment
-
-📈 Advanced KPI Monitoring
+Use slicers and filters to explore the dashboard.
 
 ---
 
-# 🙋 AUTHOR
+# 🎨 Dashboard Theme
 
-### Shruti Sinha
+| Color | Usage |
+|--------|------|
+| 🟡 Yellow | KPI Cards |
+| 🔵 Blue | Charts |
+| 🟢 Green | Positive Metrics |
+| 🟣 Purple | Analytics |
+| ⚪ White | Background |
 
-Aspiring Data Analyst passionate about:
+---
 
-📊 Power BI
+# 🌟 Future Enhancements
 
-🐍 Python
+- Machine Learning Predictions
+- Real-Time Data Integration
+- Power BI Service Deployment
+- Mobile Dashboard Optimization
+- AI-Based Health Recommendations
+- Advanced KPI Monitoring
 
-🗄 SQL
+---
 
-📈 Data Visualization
+# 🙋 Author
 
-📉 Business Intelligence
+## **Shruti Sinha**
 
-⭐ If you found this project useful, consider giving it a star!
+**Aspiring Data Analyst | Power BI Developer | SQL | Python**
+
+### Skills
+
+- 📊 Power BI
+- 🐍 Python
+- 🗄 SQL
+- 📈 Data Visualization
+- 📉 Business Intelligence
+
+---
+
+# ⭐ Support
+
+If you found this project useful:
+
+- ⭐ Star this repository
+- 🍴 Fork the project
+- 📢 Share it with others
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
 
 ---
 
@@ -340,11 +378,9 @@ Aspiring Data Analyst passionate about:
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216656973-9c4cb7ee-5943-4e2d-b8f4-fddc2dcb6e37.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/216656973-9c4cb7ee-5943-4e2d-b8f4-fddc2dcb6e37.gif" width="180"/>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient"/>
 </p>
-```
-
