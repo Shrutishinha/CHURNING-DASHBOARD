@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20&text=Churning%20Analytics%20Dashboard&fontSize=45&fontAlignY=38&animation=twinkling&fontColor=ffffff"/>
 </p>
-
+hi
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Interactive+Power+BI+Dashboard;Fitness+%26+Health+Analytics;Data+Visualization+%7C+Power+BI+%7C+DAX;Business+Intelligence+Project;Turning+Raw+Data+into+Actionable+Insights"/>
 </p>
